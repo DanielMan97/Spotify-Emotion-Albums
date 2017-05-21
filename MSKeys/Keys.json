@@ -1,0 +1,7 @@
+{
+	"emotion-subscription-key": "key",
+
+	//Example file directories
+	"face-image1": "/Users/danielman/Downloads/human.jpg",
+	
+}
