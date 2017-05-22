@@ -5,3 +5,7 @@
 3. Make sure you're logged into Spotify to retrieve Albums.
 4. Replace ReadFile line with directory of the image you want to analyse.
 
+```
+cd src
+go run main.go search.go
+```
